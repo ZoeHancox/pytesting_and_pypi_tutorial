@@ -1,5 +1,5 @@
 import numpy as np
-import calc_mean
+from pytest_tutorial import calc_mean
 
 def test_calculate_mean():
     numbers = [1, 2, 3, 4, 5]
