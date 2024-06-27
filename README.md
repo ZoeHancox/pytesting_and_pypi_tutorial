@@ -86,8 +86,8 @@ Once you've completed the `pytesting.ipynb` notebook work through the steps belo
 
         ```
 
-    > [!NOTE] 
-    > Sometimes when uploading your dist it will say the version already exist, so use `twine upload --repository-url https://test.pypi.org/legacy/ --skip-existing dist/*` instead.
+> [!NOTE] 
+> Sometimes when uploading your dist it will say the version already exist, so use `twine upload --repository-url https://test.pypi.org/legacy/ --skip-existing dist/*` instead.
 
 
 - [ ] You should be able to find your package here: test.pypi.org/project/passgen_yourname/
@@ -108,8 +108,8 @@ Once you've completed the `pytesting.ipynb` notebook work through the steps belo
 
     `pip install --index-url https://test.pypi.org/simple/ your-package-name`
 
-    > [!IMPORTANT] 
-    > Make sure to include the SPACE between simple/ and you-package-name
+> [!IMPORTANT] 
+> Make sure to include the SPACE between simple/ and you-package-name
 
 
 
