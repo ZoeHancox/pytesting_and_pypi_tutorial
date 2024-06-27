@@ -85,6 +85,7 @@ Once you've completed the `pytesting.ipynb` notebook work through the steps belo
         twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 
         ```
+
     > [!NOTE] 
     > Sometimes when uploading your dist it will say the version already exist, so use `twine upload --repository-url https://test.pypi.org/legacy/ --skip-existing dist/*` instead.
 
@@ -106,6 +107,7 @@ Once you've completed the `pytesting.ipynb` notebook work through the steps belo
     `pip install ipykernel numpy` 
 
     `pip install --index-url https://test.pypi.org/simple/ your-package-name`
+
     > [!IMPORTANT] 
     > Make sure to include the SPACE between simple/ and you-package-name
 
