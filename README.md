@@ -4,6 +4,9 @@ Basic tutorial for testing and packaging Python code. Read below on how to work 
 
 ![Tests](https://github.com/ZoeHancox/pytesting_and_pypi_tutorial/actions/workflows/tests.yml/badge.svg)
 
+Check out these slides for more information (click on the image below to view the slides):
+[[!PDF Slide](documents/slide_thumbnail.png)](documents/testing_and_packaging_slides.pdf)
+
 ## Getting Started
 
 To clone this repository:
